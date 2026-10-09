@@ -4,7 +4,7 @@
 
 Built for Helium and recent Chromium browsers. Tested by the author in **Helium and Chrome**. Requires **Chromium 150 or newer**.
 
-![Tab Volume banner on a dark demo page](docs/screenshots/banner-dark.png)
+![Tab Volume banner on a dark demo page](docs/screenshots/banner-dark.jpg)
 
 ## Where is the Tab Volume button?
 
@@ -39,7 +39,7 @@ Each tab has its own level. Switching tabs doesn't change which tab a banner con
 
 ## Make it yours
 
-![Opacity and volume boost settings](docs/screenshots/settings-dark.png)
+![Opacity and volume boost settings](docs/screenshots/settings-dark.jpg)
 
 **Opacity:** move the slider to make the banner more or less transparent. The text and controls stay opaque.
 
@@ -47,7 +47,7 @@ Each tab has its own level. Switching tabs doesn't change which tab a banner con
 
 Opacity and boost preferences are saved locally and shared across tabs. The banner follows system light/dark mode; automatic matching to custom browser themes is a possible future improvement.
 
-![Tab Volume banner on a light demo page](docs/screenshots/banner-light.png)
+![Tab Volume banner on a light demo page](docs/screenshots/banner-light.jpg)
 
 *Screenshots show the actual banner code rendered on a neutral demo page; the page is a presentation fixture, not a shipped website or browser theme.*
 
