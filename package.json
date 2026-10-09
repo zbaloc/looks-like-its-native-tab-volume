@@ -1,0 +1,9 @@
+{
+  "name": "looks-like-its-native-tab-volume",
+  "version": "0.4.2",
+  "private": true,
+  "description": "Chrome volume control with per-tab sliders, a translucent in-page banner, and optional 200% volume boost.",
+  "scripts": {"test": "node tests/verify.cjs && node tests/verify-banner.cjs"},
+  "engines": {"node": ">=20"},
+  "keywords": ["chrome-volume", "chrome-extension", "chromium-extension", "tab-volume", "volume-control", "volume-booster", "helium-browser", "web-audio"]
+}

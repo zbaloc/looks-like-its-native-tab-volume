@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Tab Volume",
+  "version": "0.4.2",
+  "description": "A compact volume slider for the tab you right-click.",
+  "minimum_chrome_version": "150",
+  "permissions": ["contextMenus", "activeTab", "tabCapture", "offscreen", "scripting", "storage"],
+  "background": {"service_worker": "background.js"},
+  "action": {"default_title": "Tab Volume"},
+  "icons": {"16": "icons/16.png", "48": "icons/48.png", "128": "icons/128.png"},
+  "incognito": "not_allowed"
+}
